@@ -1,2 +1,4 @@
-# js-blackjack
-Así dejamos el código en la sección 6
+hola 
+
+let Explosion = "explosion"
+console.log(Explosion)
